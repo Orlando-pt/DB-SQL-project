@@ -1,0 +1,455 @@
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\jorge\source\repos\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo - Teste\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_01\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_02\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_08\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_09\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_10\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_11\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\ClubeVideo_12\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\jorge\Downloads\ClubeVideo_03\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\Orlando\ClubeVideo_03_com_alteracoes_Or\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\jorge\Downloads\ClubeVideo_04\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_05\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_06\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\joana\Desktop\UA\MIEC\3ºano\2ºS\BD\Trabalho Prático Final\Implementação\Formulários\Novo\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\bin\Debug\ClubeVideo.exe.config
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\bin\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\bin\Debug\ClubeVideo.pdb
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Artigos.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Artigos_da_Lista.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.CriarEndereco.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.EmpregadoLoja.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Empresas.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Enderecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Form1.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.FormInicial.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.ListasDePrecos.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Documentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Login.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Lojas.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Lojas_do_Funcionario.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.ProdutosLinha.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.LinhasDocumento.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Produtos_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Funcionarios_da_Loja.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Properties.Resources.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.Terceiros.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.TiposDocumentos.resources
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.exe
+C:\Users\jorge\Downloads\ClubeVideo_07\ClubeVideo\obj\Debug\ClubeVideo.pdb
